@@ -1,0 +1,14 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "Start of learing the JS language",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Petro U",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.41.0"
+  }
+}
